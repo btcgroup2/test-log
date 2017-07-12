@@ -1,0 +1,67 @@
+transaction : send teansaction from btcnewNode1 to btcnewNode2 amount 10
+address: n1Y7hQbotCPz4xpfYX6apoKEX9FuiWvv3q
+txid: ee106b890315ad2fc75e343dbf7afef9480db39c530580d2f75e078c398ba4ec
+nodes: btcorgNode1, transaction info
+error code: -5
+error message:
+Invalid or non-wallet transaction id
+nodes: btcorgNode2, transaction info
+error code: -5
+error message:
+Invalid or non-wallet transaction id
+nodes: btchardforkNode1, transaction info
+error code: -5
+error message:
+Invalid or non-wallet transaction id
+nodes: btchardforkNode2, transaction info
+error code: -5
+error message:
+Invalid or non-wallet transaction id
+nodes: btcnewNode1, transaction info
+{
+  "amount": -10.00000000,
+  "fee": -0.00003840,
+  "confirmations": 0,
+  "trusted": true,
+  "txid": "ee106b890315ad2fc75e343dbf7afef9480db39c530580d2f75e078c398ba4ec",
+  "walletconflicts": [
+  ],
+  "time": 1499793556,
+  "timereceived": 1499793556,
+  "bip125-replaceable": "no",
+  "details": [
+    {
+      "account": "",
+      "address": "n1Y7hQbotCPz4xpfYX6apoKEX9FuiWvv3q",
+      "category": "send",
+      "amount": -10.00000000,
+      "vout": 1,
+      "fee": -0.00003840,
+      "abandoned": false
+    }
+  ],
+  "hex": "020000000137737e6e317ed305067633f0a79a3da0588841e0c4cda27f4e341298badeaf680000000049483045022100907dfedaab765ddd0e36180f20487074b4aebe9c40a651d73435606ce4c39c46022052c6378db23cee370b04c2a620022e574df1b5aa3ef4e66347807d997e92e2a401feffffff0200206859000000001976a914d4614aba693c470ccb8992b6d8a9eb9025f6553388ac00ca9a3b000000001976a914db9ac7d3b635c6e7b51805cf2ce25c2ea9edfad388ac30010000"
+}
+nodes: btcnewNode2, transaction info
+{
+  "amount": 10.00000000,
+  "confirmations": 0,
+  "trusted": false,
+  "txid": "ee106b890315ad2fc75e343dbf7afef9480db39c530580d2f75e078c398ba4ec",
+  "walletconflicts": [
+  ],
+  "time": 1499793556,
+  "timereceived": 1499793556,
+  "bip125-replaceable": "no",
+  "details": [
+    {
+      "account": "",
+      "address": "n1Y7hQbotCPz4xpfYX6apoKEX9FuiWvv3q",
+      "category": "receive",
+      "amount": 10.00000000,
+      "label": "",
+      "vout": 1
+    }
+  ],
+  "hex": "020000000137737e6e317ed305067633f0a79a3da0588841e0c4cda27f4e341298badeaf680000000049483045022100907dfedaab765ddd0e36180f20487074b4aebe9c40a651d73435606ce4c39c46022052c6378db23cee370b04c2a620022e574df1b5aa3ef4e66347807d997e92e2a401feffffff0200206859000000001976a914d4614aba693c470ccb8992b6d8a9eb9025f6553388ac00ca9a3b000000001976a914db9ac7d3b635c6e7b51805cf2ce25c2ea9edfad388ac30010000"
+}

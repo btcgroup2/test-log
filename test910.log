@@ -1,0 +1,67 @@
+transaction : send teansaction from btchardforkNode1 to btcorgNode1 amount 10
+address: mv1b7BBSYgVLXRDePMsuTK8vLx7wtxN8bm
+txid: c6f26b3ebae541a56fbfc8ce29f4d1b3c66c1d30299397cad1015dccc9f5e92c
+nodes: btcorgNode1, transaction info
+{
+  "amount": 10.00000000,
+  "confirmations": 0,
+  "trusted": false,
+  "txid": "c6f26b3ebae541a56fbfc8ce29f4d1b3c66c1d30299397cad1015dccc9f5e92c",
+  "walletconflicts": [
+  ],
+  "time": 1499792715,
+  "timereceived": 1499792715,
+  "bip125-replaceable": "no",
+  "details": [
+    {
+      "account": "",
+      "address": "mv1b7BBSYgVLXRDePsuTK8vLx7wtxN8bm",
+      "category": "receive",
+      "amount": 10.00000000,
+      "label": "",
+      "vout": 0
+    }
+  ],
+  "hex": "0200000004305e11307c33f8de87736e3a3311c9b7a1faa9c607bc1497b3e16f2dd97f7327010000006b48304502210095c1b0d85125953baa81bbdb8fd0a9cf0e2cfaa254ea85e9d132ca2604bb8748022032b399a8dd93ef5cee8470e8b86be30da3664bcb372acc202f6f37fb3a417381012103db0157162dc395fe5d487c4a720b5437d369015e6308846d1e571804ad2e2cb1feffffff93adc176dbd7b7bee0d1ed46cbe98c83a52fc57ce75222a4d24df036244071d0000000006b483045022100ffe324967a132a063a0e60081a9cd7378ca6d7f30ae51445b61989521f98217e02205722987ea2ae502195e26cdcc02ea4e818faedd9a312c141b2f7c55878faef75012103b9535364ec3623eb467b7958114fb51d00c367d72fd8c9ca67ce95e0fc73a0e1feffffffd8b62021d5a404047e7d01942df3a469e66eeda5eca73a37dc8ecdfdd9e2a5e0010000006b483045022100c9cc791f75486a9eecb5735b0307a378516e18dfff277653016b8062184cd71a02203a48b8b7016895dad887ea1f31434df91dcaecf5ee567dac73182bebfe215ebb012103aaae4f804f76c80110b4b7722c85705c0656e008f160a353fcefecf13695199bfeffffffeefa992b55f4ba89d75ca7b4fad52d2a174e3df41ce3661f718d8edbc173b8b6000000006b483045022100f87c6c49f7ac7ef94f457c46942002d9a502cd8620761d31a6cf5111758672c302203b51246c2a7cad34011c5a74a624a4993cbc2710c929b3393ecc147d78a48c4c012102e82cdab026d637416b0358ef7fb81f6bffaf935aefbf4f349a5dc1429628aae8feffffff0200ca9a3b000000001976a9149efc232c1baaebad49ec900cb0080ab1948b484e88aca8acf505000000001976a914fafabfba56166e30e282345b057d52bd75f973dd88ac33010000"
+}
+nodes: btcorgNode2, transaction info
+error code: -5
+error message:
+Invalid or non-wallet transaction id
+nodes: btchardforkNode1, transaction info
+{
+  "amount": -10.00000000,
+  "fee": -0.00013400,
+  "confirmations": 0,
+  "trusted": true,
+  "txid": "c6f26b3ebae541a56fbfc8ce29f4d1b3c66c1d30299397cad1015dccc9f5e92c",
+  "walletconflicts": [
+  ],
+  "time": 1499792715,
+  "timereceived": 1499792715,
+  "bip125-replaceable": "no",
+  "details": [
+    {
+      "account": "",
+      "address": "mv1b7BBSYgVLXRDePsuTK8vLx7wtxN8bm",
+      "category": "send",
+      "amount": -10.00000000,
+      "vout": 0,
+      "fee": -0.00013400,
+      "abandoned": false
+    }
+  ],
+  "hex": "0200000004305e11307c33f8de87736e3a3311c9b7a1faa9c607bc1497b3e16f2dd97f7327010000006b48304502210095c1b0d85125953baa81bbdb8fd0a9cf0e2cfaa254ea85e9d132ca2604bb8748022032b399a8dd93ef5cee8470e8b86be30da3664bcb372acc202f6f37fb3a417381012103db0157162dc395fe5d487c4a720b5437d369015e6308846d1e571804ad2e2cb1feffffff93adc176dbd7b7bee0d1ed46cbe98c83a52fc57ce75222a4d24df036244071d0000000006b483045022100ffe324967a132a063a0e60081a9cd7378ca6d7f30ae51445b61989521f98217e02205722987ea2ae502195e26cdcc02ea4e818faedd9a312c141b2f7c55878faef75012103b9535364ec3623eb467b7958114fb51d00c367d72fd8c9ca67ce95e0fc73a0e1feffffffd8b62021d5a404047e7d01942df3a469e66eeda5eca73a37dc8ecdfdd9e2a5e0010000006b483045022100c9cc791f75486a9eecb5735b0307a378516e18dfff277653016b8062184cd71a02203a48b8b7016895dad887ea1f31434df91dcaecf5ee567dac73182bebfe215ebb012103aaae4f804f76c80110b4b7722c85705c0656e008f160a353fcefecf13695199bfeffffffeefa992b55f4ba89d75ca7b4fad52d2a174e3df41ce3661f718d8edbc173b8b6000000006b483045022100f87c6c49f7ac7ef94f457c46942002d9a502cd8620761d31a6cf5111758672c302203b51246c2a7cad34011c5a74a624a4993cbc2710c929b3393ecc147d78a48c4c012102e82cdab026d637416b0358ef7fb81f6bffaf935aefbf4f349a5dc1429628aae8feffffff0200ca9a3b000000001976a9149efc232c1baaebad49ec900cb0080ab1948b484e88aca8acf505000000001976a914fafabfba56166e30e282345b057d52bd75f973dd88ac33010000"
+}
+nodes: btchardforkNode2, transaction info
+error code: -5
+error message:
+Invalid or non-wallet transaction id
+nodes: btcnewNode1, transaction info
+error code: -5
+error message:
+Invalid or non-wallet transaction id
+nodes: btcnewNode2, transaction info
+error code: -5
+error message:
+Invalid or non-wallet transaction id

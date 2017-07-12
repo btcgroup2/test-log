@@ -1,0 +1,83 @@
+btcorgNode2 generate 1 block to confirm transactions
+block: 3ebeabfd9fc10da1a5ffc2a3a998705d60f38dac4d65198ff2c80b6dabcac85b
+nodes: btcorgNode1, block info
+error code: -5
+error message:
+Block not found
+nodes: btcorgNode2, block info
+{
+  "hash": "3ebeabfd9fc10da1a5ffc2a3a998705d60f38dac4d65198ff2c80b6dabcac85b",
+  "confirmations": 1,
+  "strippedsize": 452,
+  "size": 452,
+  "weight": 1808,
+  "height": 103,
+  "version": 536870912,
+  "versionHex": "20000000",
+  "merkleroot": "5d5d14fabbcd1c44e0619d6bc0191afe436197f891d33686b9dbe045b8746f77",
+  "tx": [
+    "0ebff67ae0d888e92834bf16a246906d7145f13be95efe882e3ece03e6096493", 
+    "7e931ad48d5463087616ca36a968a2e2cb19277715d5738af8a9c073e203f7b2"
+  ],
+  "time": 1499791847,
+  "mediantime": 1499791580,
+  "nonce": 0,
+  "bits": "207fffff",
+  "difficulty": 4.656542373906925e-10,
+  "chainwork": "00000000000000000000000000000000000000000000000000000000000000d0",
+  "previousblockhash": "2c7be7deebc7509bfd82a63b643dd2170c40ed0a638f5327c5e302cb43cc0bbe"
+}
+nodes: btchardforkNode1, block info
+{
+  "hash": "3ebeabfd9fc10da1a5ffc2a3a998705d60f38dac4d65198ff2c80b6dabcac85b",
+  "confirmations": 1,
+  "strippedsize": 452,
+  "size": 452,
+  "weight": 1808,
+  "height": 103,
+  "version": 536870912,
+  "versionHex": "20000000",
+  "merkleroot": "5d5d14fabbcd1c44e0619d6bc0191afe436197f891d33686b9dbe045b8746f77",
+  "tx": [
+    "0ebff67ae0d888e92834bf16a246906d7145f13be95efe882e3ece03e6096493", 
+    "7e931ad48d5463087616ca36a968a2e2cb19277715d5738af8a9c073e203f7b2"
+  ],
+  "time": 1499791847,
+  "mediantime": 1499791580,
+  "nonce": 0,
+  "bits": "207fffff",
+  "difficulty": 4.656542373906925e-10,
+  "chainwork": "00000000000000000000000000000000000000000000000000000000000000d0",
+  "previousblockhash": "2c7be7deebc7509bfd82a63b643dd2170c40ed0a638f5327c5e302cb43cc0bbe"
+}
+nodes: btchardforkNode2, block info
+{
+  "hash": "3ebeabfd9fc10da1a5ffc2a3a998705d60f38dac4d65198ff2c80b6dabcac85b",
+  "confirmations": 1,
+  "strippedsize": 452,
+  "size": 452,
+  "weight": 1808,
+  "height": 103,
+  "version": 536870912,
+  "versionHex": "20000000",
+  "merkleroot": "5d5d14fabbcd1c44e0619d6bc0191afe436197f891d33686b9dbe045b8746f77",
+  "tx": [
+    "0ebff67ae0d888e92834bf16a246906d7145f13be95efe882e3ece03e6096493", 
+    "7e931ad48d5463087616ca36a968a2e2cb19277715d5738af8a9c073e203f7b2"
+  ],
+  "time": 1499791847,
+  "mediantime": 1499791580,
+  "nonce": 0,
+  "bits": "207fffff",
+  "difficulty": 4.656542373906925e-10,
+  "chainwork": "00000000000000000000000000000000000000000000000000000000000000d0",
+  "previousblockhash": "2c7be7deebc7509bfd82a63b643dd2170c40ed0a638f5327c5e302cb43cc0bbe"
+}
+nodes: btcnewNode1, block info
+error code: -5
+error message:
+Block not found
+nodes: btcnewNode2, block info
+error code: -5
+error message:
+Block not found

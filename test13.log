@@ -1,0 +1,127 @@
+getinfo : get blocks info from all nodes
+nodes: btcorgNode1 info
+{
+  "version": 149900,
+  "protocolversion": 70015,
+  "walletversion": 139900,
+  "balance": 50.00000000,
+  "blocks": 101,
+  "timeoffset": 0,
+  "connections": 5,
+  "proxy": "",
+  "difficulty": 4.656542373906925e-10,
+  "testnet": false,
+  "keypoololdest": 1499791510,
+  "keypoolsize": 199,
+  "paytxfee": 0.00000000,
+  "relayfee": 0.00001000,
+  "errors": "This is a pre-release test build - use at your own risk - do not use for mining or merchant applications"
+}
+[
+  "n3VHpJYepNisre33mDz6my2eHup877ya1"
+]
+nodes: btcorgNode2 info
+{
+  "version": 149900,
+  "protocolversion": 70015,
+  "walletversion": 139900,
+  "balance": 0.00000000,
+  "blocks": 101,
+  "timeoffset": 0,
+  "connections": 9,
+  "proxy": "",
+  "difficulty": 4.656542373906925e-10,
+  "testnet": false,
+  "keypoololdest": 1499791511,
+  "keypoolsize": 199,
+  "paytxfee": 0.00000000,
+  "relayfee": 0.00001000,
+  "errors": "This is a pre-release test build - use at your own risk - do not use for mining or merchant applications"
+}
+[
+  "n46NRrxPNkVFgXHn7GmyzD9bubt2gBZf4p"
+]
+nodes: btchardforkNode1 info
+{
+  "version": 149900,
+  "protocolversion": 70015,
+  "walletversion": 139900,
+  "balance": 0.00000000,
+  "blocks": 101,
+  "timeoffset": 0,
+  "connections": 9,
+  "proxy": "",
+  "difficulty": 4.656542373906925e-10,
+  "testnet": false,
+  "keypoololdest": 1499791512,
+  "keypoolsize": 199,
+  "paytxfee": 0.00000000,
+  "relayfee": 0.00001000,
+  "errors": "This is a pre-release test build - use at your own risk - do not use for mining or merchant applications"
+}
+[
+  "n2HiY7xtbzB3YTbYLpbH9oU2E5b2NEWvn1"
+]
+nodes: btchardforkNode2 info
+{
+  "version": 149900,
+  "protocolversion": 70015,
+  "walletversion": 139900,
+  "balance": 0.00000000,
+  "blocks": 101,
+  "timeoffset": 0,
+  "connections": 9,
+  "proxy": "",
+  "difficulty": 4.656542373906925e-10,
+  "testnet": false,
+  "keypoololdest": 1499791514,
+  "keypoolsize": 199,
+  "paytxfee": 0.00000000,
+  "relayfee": 0.00001000,
+  "errors": "This is a pre-release test build - use at your own risk - do not use for mining or merchant applications"
+}
+[
+  "muHHu4sqY4QaGo57smXSgVPEkcpcDxWo"
+]
+nodes: btcnewNode1 info
+{
+  "version": 149900,
+  "protocolversion": 70015,
+  "walletversion": 139900,
+  "balance": 0.00000000,
+  "blocks": 101,
+  "timeoffset": 0,
+  "connections": 9,
+  "proxy": "",
+  "difficulty": 4.656542373906925e-10,
+  "testnet": false,
+  "keypoololdest": 1499791514,
+  "keypoolsize": 199,
+  "paytxfee": 0.00000000,
+  "relayfee": 0.00001000,
+  "errors": "This is a pre-release test build - use at your own risk - do not use for mining or merchant applications"
+}
+[
+  "muzvG6LZE1byxbe9Dcre9zjTQTr1YUGnE2"
+]
+nodes: btcnewNode2 info
+{
+  "version": 149900,
+  "protocolversion": 70015,
+  "walletversion": 139900,
+  "balance": 0.00000000,
+  "blocks": 101,
+  "timeoffset": 0,
+  "connections": 9,
+  "proxy": "",
+  "difficulty": 4.656542373906925e-10,
+  "testnet": false,
+  "keypoololdest": 1499791515,
+  "keypoolsize": 199,
+  "paytxfee": 0.00000000,
+  "relayfee": 0.00001000,
+  "errors": "This is a pre-release test build - use at your own risk - do not use for mining or merchant applications"
+}
+[
+  "mmAx7BrNydCVdjf6K4y29ozggJBfq1cRnt"
+]

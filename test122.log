@@ -1,0 +1,102 @@
+btchardforkNode1 generate 1 block to confirm transactions
+block: 4135196085237587bd698956be01437f8f1e564386e5b6cc53f731e734bcfe21
+nodes: btcorgNode1, block info
+{
+  "hash": "4135196085237587bd698956be01437f8f1e564386e5b6cc53f731e734bcfe21",
+  "confirmations": 1,
+  "strippedsize": 748,
+  "size": 748,
+  "weight": 2992,
+  "height": 409,
+  "version": 805306371,
+  "versionHex": "30000003",
+  "merkleroot": "0236ad3477c15e0ae421eadb1c115d55370f6955681099c1bf39e3e5b28f424f",
+  "tx": [
+    "3c6a326e4a0dbeb7ccfbcd08d1c7a4f4cf5e669f64ee84cd659955ff2ad9cd4c", 
+    "ad8091033cf722ddcafb83ad46de1baf85afb721f88bb0d667df1af62c56041b"
+  ],
+  "time": 1499793182,
+  "mediantime": 1499792948,
+  "nonce": 1,
+  "bits": "207fffff",
+  "difficulty": 4.656542373906925e-10,
+  "chainwork": "0000000000000000000000000000000000000000000000000000000000000334",
+  "previousblockhash": "0ca66b5420a2200f64b5c7015ac6f8b879a365185274f7879a6cc150e3e58341"
+}
+nodes: btcorgNode2, block info
+{
+  "hash": "4135196085237587bd698956be01437f8f1e564386e5b6cc53f731e734bcfe21",
+  "confirmations": 1,
+  "strippedsize": 748,
+  "size": 748,
+  "weight": 2992,
+  "height": 409,
+  "version": 805306371,
+  "versionHex": "30000003",
+  "merkleroot": "0236ad3477c15e0ae421eadb1c115d55370f6955681099c1bf39e3e5b28f424f",
+  "tx": [
+    "3c6a326e4a0dbeb7ccfbcd08d1c7a4f4cf5e669f64ee84cd659955ff2ad9cd4c", 
+    "ad8091033cf722ddcafb83ad46de1baf85afb721f88bb0d667df1af62c56041b"
+  ],
+  "time": 1499793182,
+  "mediantime": 1499792948,
+  "nonce": 1,
+  "bits": "207fffff",
+  "difficulty": 4.656542373906925e-10,
+  "chainwork": "0000000000000000000000000000000000000000000000000000000000000334",
+  "previousblockhash": "0ca66b5420a2200f64b5c7015ac6f8b879a365185274f7879a6cc150e3e58341"
+}
+nodes: btchardforkNode1, block info
+{
+  "hash": "4135196085237587bd698956be01437f8f1e564386e5b6cc53f731e734bcfe21",
+  "confirmations": 1,
+  "strippedsize": 748,
+  "size": 748,
+  "weight": 2992,
+  "height": 409,
+  "version": 805306371,
+  "versionHex": "30000003",
+  "merkleroot": "0236ad3477c15e0ae421eadb1c115d55370f6955681099c1bf39e3e5b28f424f",
+  "tx": [
+    "3c6a326e4a0dbeb7ccfbcd08d1c7a4f4cf5e669f64ee84cd659955ff2ad9cd4c", 
+    "ad8091033cf722ddcafb83ad46de1baf85afb721f88bb0d667df1af62c56041b"
+  ],
+  "time": 1499793182,
+  "mediantime": 1499792948,
+  "nonce": 1,
+  "bits": "207fffff",
+  "difficulty": 4.656542373906925e-10,
+  "chainwork": "0000000000000000000000000000000000000000000000000000000000000334",
+  "previousblockhash": "0ca66b5420a2200f64b5c7015ac6f8b879a365185274f7879a6cc150e3e58341"
+}
+nodes: btchardforkNode2, block info
+{
+  "hash": "4135196085237587bd698956be01437f8f1e564386e5b6cc53f731e734bcfe21",
+  "confirmations": 1,
+  "strippedsize": 748,
+  "size": 748,
+  "weight": 2992,
+  "height": 409,
+  "version": 805306371,
+  "versionHex": "30000003",
+  "merkleroot": "0236ad3477c15e0ae421eadb1c115d55370f6955681099c1bf39e3e5b28f424f",
+  "tx": [
+    "3c6a326e4a0dbeb7ccfbcd08d1c7a4f4cf5e669f64ee84cd659955ff2ad9cd4c", 
+    "ad8091033cf722ddcafb83ad46de1baf85afb721f88bb0d667df1af62c56041b"
+  ],
+  "time": 1499793182,
+  "mediantime": 1499792948,
+  "nonce": 1,
+  "bits": "207fffff",
+  "difficulty": 4.656542373906925e-10,
+  "chainwork": "0000000000000000000000000000000000000000000000000000000000000334",
+  "previousblockhash": "0ca66b5420a2200f64b5c7015ac6f8b879a365185274f7879a6cc150e3e58341"
+}
+nodes: btcnewNode1, block info
+error code: -5
+error message:
+Block not found
+nodes: btcnewNode2, block info
+error code: -5
+error message:
+Block not found

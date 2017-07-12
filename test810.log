@@ -1,0 +1,134 @@
+btcorgNode1 generate 1 block to confirm transactions
+block: 5ff9028a56e5ed7cfacb5a20506434d8c10771fca6fcde9092642a1b3be42201
+nodes: btcorgNode1, block info
+{
+  "hash": "5ff9028a56e5ed7cfacb5a20506434d8c10771fca6fcde9092642a1b3be42201",
+  "confirmations": 1,
+  "strippedsize": 2021,
+  "size": 2021,
+  "weight": 8084,
+  "height": 307,
+  "version": 805306371,
+  "versionHex": "30000003",
+  "merkleroot": "cc924cccbe7a249a031a232786bd4a70ee620c6fdd5c9776d4ca097556d0a01d",
+  "tx": [
+    "3f131d1aab7f96beb9e6cf6b1effb48b7391194bf1fc4755635c34c8025255c6", 
+    "4684c7f88c82d283136dcc98e7b1ea280e1587210d64f1d1d33763d31ff6f5fa", 
+    "e0a5e2d9fdcd8edc373aa7eca5ed6ee669a4f32d94017d7e0404a4d52120b6d8", 
+    "b6b873c1db8e8d711f66e31cf43d4e172a2dd5fab4a75cd789baf4552b99faee", 
+    "8608d95101b7e620ecc0b5585cf8cd4ad382e993f68cd3e597cdc1fee9b0a329", 
+    "27737fd92d6fe1b39714bc07c6a9faa1b7c911333a6e7387def8337c30115e30", 
+    "bddefbe52b24ee0f481fb875dc1363bbe83efc286c8035e6a4f1e1285c6a9057", 
+    "a4d6a21c48a912bd2373c08b751cdc75d7ad430b0df3d4d572ff2b19d13cdf66", 
+    "d071402436f04dd2a42252e77cc52fa5838ce9cb46edd1e0beb7d7db76c1ad93", 
+    "66142c7abb33c6bdb773cb0ba89a4b6045c7a01554690b0ce3a32c118a5d48bb"
+  ],
+  "time": 1499792411,
+  "mediantime": 1499791976,
+  "nonce": 0,
+  "bits": "207fffff",
+  "difficulty": 4.656542373906925e-10,
+  "chainwork": "0000000000000000000000000000000000000000000000000000000000000268",
+  "previousblockhash": "37c3dafce8b06d46c294da938d51ab66063b0e188efe6a85ca896520def6ddd1"
+}
+nodes: btcorgNode2, block info
+{
+  "hash": "5ff9028a56e5ed7cfacb5a20506434d8c10771fca6fcde9092642a1b3be42201",
+  "confirmations": 1,
+  "strippedsize": 2021,
+  "size": 2021,
+  "weight": 8084,
+  "height": 307,
+  "version": 805306371,
+  "versionHex": "30000003",
+  "merkleroot": "cc924cccbe7a249a031a232786bd4a70ee620c6fdd5c9776d4ca097556d0a01d",
+  "tx": [
+    "3f131d1aab7f96beb9e6cf6b1effb48b7391194bf1fc4755635c34c8025255c6", 
+    "4684c7f88c82d283136dcc98e7b1ea280e1587210d64f1d1d33763d31ff6f5fa", 
+    "e0a5e2d9fdcd8edc373aa7eca5ed6ee669a4f32d94017d7e0404a4d52120b6d8", 
+    "b6b873c1db8e8d711f66e31cf43d4e172a2dd5fab4a75cd789baf4552b99faee", 
+    "8608d95101b7e620ecc0b5585cf8cd4ad382e993f68cd3e597cdc1fee9b0a329", 
+    "27737fd92d6fe1b39714bc07c6a9faa1b7c911333a6e7387def8337c30115e30", 
+    "bddefbe52b24ee0f481fb875dc1363bbe83efc286c8035e6a4f1e1285c6a9057", 
+    "a4d6a21c48a912bd2373c08b751cdc75d7ad430b0df3d4d572ff2b19d13cdf66", 
+    "d071402436f04dd2a42252e77cc52fa5838ce9cb46edd1e0beb7d7db76c1ad93", 
+    "66142c7abb33c6bdb773cb0ba89a4b6045c7a01554690b0ce3a32c118a5d48bb"
+  ],
+  "time": 1499792411,
+  "mediantime": 1499791976,
+  "nonce": 0,
+  "bits": "207fffff",
+  "difficulty": 4.656542373906925e-10,
+  "chainwork": "0000000000000000000000000000000000000000000000000000000000000268",
+  "previousblockhash": "37c3dafce8b06d46c294da938d51ab66063b0e188efe6a85ca896520def6ddd1"
+}
+nodes: btchardforkNode1, block info
+{
+  "hash": "5ff9028a56e5ed7cfacb5a20506434d8c10771fca6fcde9092642a1b3be42201",
+  "confirmations": 1,
+  "strippedsize": 2021,
+  "size": 2021,
+  "weight": 8084,
+  "height": 307,
+  "version": 805306371,
+  "versionHex": "30000003",
+  "merkleroot": "cc924cccbe7a249a031a232786bd4a70ee620c6fdd5c9776d4ca097556d0a01d",
+  "tx": [
+    "3f131d1aab7f96beb9e6cf6b1effb48b7391194bf1fc4755635c34c8025255c6", 
+    "4684c7f88c82d283136dcc98e7b1ea280e1587210d64f1d1d33763d31ff6f5fa", 
+    "e0a5e2d9fdcd8edc373aa7eca5ed6ee669a4f32d94017d7e0404a4d52120b6d8", 
+    "b6b873c1db8e8d711f66e31cf43d4e172a2dd5fab4a75cd789baf4552b99faee", 
+    "8608d95101b7e620ecc0b5585cf8cd4ad382e993f68cd3e597cdc1fee9b0a329", 
+    "27737fd92d6fe1b39714bc07c6a9faa1b7c911333a6e7387def8337c30115e30", 
+    "bddefbe52b24ee0f481fb875dc1363bbe83efc286c8035e6a4f1e1285c6a9057", 
+    "a4d6a21c48a912bd2373c08b751cdc75d7ad430b0df3d4d572ff2b19d13cdf66", 
+    "d071402436f04dd2a42252e77cc52fa5838ce9cb46edd1e0beb7d7db76c1ad93", 
+    "66142c7abb33c6bdb773cb0ba89a4b6045c7a01554690b0ce3a32c118a5d48bb"
+  ],
+  "time": 1499792411,
+  "mediantime": 1499791976,
+  "nonce": 0,
+  "bits": "207fffff",
+  "difficulty": 4.656542373906925e-10,
+  "chainwork": "0000000000000000000000000000000000000000000000000000000000000268",
+  "previousblockhash": "37c3dafce8b06d46c294da938d51ab66063b0e188efe6a85ca896520def6ddd1"
+}
+nodes: btchardforkNode2, block info
+{
+  "hash": "5ff9028a56e5ed7cfacb5a20506434d8c10771fca6fcde9092642a1b3be42201",
+  "confirmations": 1,
+  "strippedsize": 2021,
+  "size": 2021,
+  "weight": 8084,
+  "height": 307,
+  "version": 805306371,
+  "versionHex": "30000003",
+  "merkleroot": "cc924cccbe7a249a031a232786bd4a70ee620c6fdd5c9776d4ca097556d0a01d",
+  "tx": [
+    "3f131d1aab7f96beb9e6cf6b1effb48b7391194bf1fc4755635c34c8025255c6", 
+    "4684c7f88c82d283136dcc98e7b1ea280e1587210d64f1d1d33763d31ff6f5fa", 
+    "e0a5e2d9fdcd8edc373aa7eca5ed6ee669a4f32d94017d7e0404a4d52120b6d8", 
+    "b6b873c1db8e8d711f66e31cf43d4e172a2dd5fab4a75cd789baf4552b99faee", 
+    "8608d95101b7e620ecc0b5585cf8cd4ad382e993f68cd3e597cdc1fee9b0a329", 
+    "27737fd92d6fe1b39714bc07c6a9faa1b7c911333a6e7387def8337c30115e30", 
+    "bddefbe52b24ee0f481fb875dc1363bbe83efc286c8035e6a4f1e1285c6a9057", 
+    "a4d6a21c48a912bd2373c08b751cdc75d7ad430b0df3d4d572ff2b19d13cdf66", 
+    "d071402436f04dd2a42252e77cc52fa5838ce9cb46edd1e0beb7d7db76c1ad93", 
+    "66142c7abb33c6bdb773cb0ba89a4b6045c7a01554690b0ce3a32c118a5d48bb"
+  ],
+  "time": 1499792411,
+  "mediantime": 1499791976,
+  "nonce": 0,
+  "bits": "207fffff",
+  "difficulty": 4.656542373906925e-10,
+  "chainwork": "0000000000000000000000000000000000000000000000000000000000000268",
+  "previousblockhash": "37c3dafce8b06d46c294da938d51ab66063b0e188efe6a85ca896520def6ddd1"
+}
+nodes: btcnewNode1, block info
+error code: -5
+error message:
+Block not found
+nodes: btcnewNode2, block info
+error code: -5
+error message:
+Block not found

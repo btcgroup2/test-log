@@ -1,0 +1,64 @@
+btcnewNode1 generate 1 block to confirm transactions
+block: 1ba105dd72dad3fd91039f1e818ae4c144a0863a70db9fc55117fa9689f867a4
+nodes: btcorgNode1, block info
+error code: -1
+error message:
+Block not found on disk
+nodes: btcorgNode2, block info
+error code: -1
+error message:
+Block not found on disk
+nodes: btchardforkNode1, block info
+error code: -1
+error message:
+Block not found on disk
+nodes: btchardforkNode2, block info
+error code: -1
+error message:
+Block not found on disk
+nodes: btcnewNode1, block info
+{
+  "hash": "1ba105dd72dad3fd91039f1e818ae4c144a0863a70db9fc55117fa9689f867a4",
+  "confirmations": 1,
+  "strippedsize": 420,
+  "size": 420,
+  "weight": 1680,
+  "height": 203,
+  "version": 805306371,
+  "versionHex": "30000003",
+  "merkleroot": "dad078800fed69daaa5823bcb1d62d818d10f9b05080d0dfc19045e98a75d3e4",
+  "tx": [
+    "4309196506d897f453638012015704f11e112cbeb61071a5e988444798281139", 
+    "6355ef4adf76606b5b409692c75f55df9d1f0ab614ea9c5de16eab1aaac3544d"
+  ],
+  "time": 1499793406,
+  "mediantime": 1499793012,
+  "nonce": 2,
+  "bits": "207fffff",
+  "difficulty": 4.656542373906925e-10,
+  "chainwork": "0000000000000000000000000000000000000000000000000000000000000198",
+  "previousblockhash": "2b3d1842e47ba2685c02127baa2142376b69fb6395afa45562f8ae849dd5484d"
+}
+nodes: btcnewNode2, block info
+{
+  "hash": "1ba105dd72dad3fd91039f1e818ae4c144a0863a70db9fc55117fa9689f867a4",
+  "confirmations": 1,
+  "strippedsize": 420,
+  "size": 420,
+  "weight": 1680,
+  "height": 203,
+  "version": 805306371,
+  "versionHex": "30000003",
+  "merkleroot": "dad078800fed69daaa5823bcb1d62d818d10f9b05080d0dfc19045e98a75d3e4",
+  "tx": [
+    "4309196506d897f453638012015704f11e112cbeb61071a5e988444798281139", 
+    "6355ef4adf76606b5b409692c75f55df9d1f0ab614ea9c5de16eab1aaac3544d"
+  ],
+  "time": 1499793406,
+  "mediantime": 1499793012,
+  "nonce": 2,
+  "bits": "207fffff",
+  "difficulty": 4.656542373906925e-10,
+  "chainwork": "0000000000000000000000000000000000000000000000000000000000000198",
+  "previousblockhash": "2b3d1842e47ba2685c02127baa2142376b69fb6395afa45562f8ae849dd5484d"
+}

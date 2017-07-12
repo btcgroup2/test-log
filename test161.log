@@ -1,0 +1,67 @@
+transaction : send teansaction from btcnewNode2 to btcnewNode1 amount 5
+address: n22F9DeejoSM3baZwKoFW63SeB39W4xPSx
+txid: a40b6de7340d12323d50d00b0dfcfac93d27123d916b1ac074794f5cd62782ee
+nodes: btcorgNode1, transaction info
+error code: -5
+error message:
+Invalid or non-wallet transaction id
+nodes: btcorgNode2, transaction info
+error code: -5
+error message:
+Invalid or non-wallet transaction id
+nodes: btchardforkNode1, transaction info
+error code: -5
+error message:
+Invalid or non-wallet transaction id
+nodes: btchardforkNode2, transaction info
+error code: -5
+error message:
+Invalid or non-wallet transaction id
+nodes: btcnewNode1, transaction info
+{
+  "amount": 5.00000000,
+  "confirmations": 0,
+  "trusted": false,
+  "txid": "a40b6de7340d12323d50d00b0dfcfac93d27123d916b1ac074794f5cd62782ee",
+  "walletconflicts": [
+  ],
+  "time": 1499793637,
+  "timereceived": 1499793637,
+  "bip125-replaceable": "no",
+  "details": [
+    {
+      "account": "",
+      "address": "n22F9DeejoS3baZwKoFW63SeB39W4xPSx",
+      "category": "receive",
+      "amount": 5.00000000,
+      "label": "",
+      "vout": 0
+    }
+  ],
+  "hex": "0200000001eca48b398c075ef7d28005539cb30d48f9fe7abf3d345ec72fad1503896b10ee010000006a47304402202ed5e64d5981ff85b45ca3893df81cfec0ec9486d9793c819bc1c0fbf3db770802201a4f2bd1c03a8e2b5046fa777ffea2d7d16bee24136936fc3f9f5a7896afbf3701210247aae370556f6e710f3d24cf085ea6e6d1ca9e0c4881eef1ce1152744b10f576feffffff020065cd1d000000001976a914e0eca46d68f63125db019259202f02dbc9f3942288ac5853cd1d000000001976a9149346857e3f45db85ea11e749149b8b121878331d88ac31010000"
+}
+nodes: btcnewNode2, transaction info
+{
+  "amount": -5.00000000,
+  "fee": -0.00004520,
+  "confirmations": 0,
+  "trusted": true,
+  "txid": "a40b6de7340d12323d50d00b0dfcfac93d27123d916b1ac074794f5cd62782ee",
+  "walletconflicts": [
+  ],
+  "time": 1499793637,
+  "timereceived": 1499793637,
+  "bip125-replaceable": "no",
+  "details": [
+    {
+      "account": "",
+      "address": "n22F9DeejoS3baZwKoFW63SeB39W4xPSx",
+      "category": "send",
+      "amount": -5.00000000,
+      "vout": 0,
+      "fee": -0.00004520,
+      "abandoned": false
+    }
+  ],
+  "hex": "0200000001eca48b398c075ef7d28005539cb30d48f9fe7abf3d345ec72fad1503896b10ee010000006a47304402202ed5e64d5981ff85b45ca3893df81cfec0ec9486d9793c819bc1c0fbf3db770802201a4f2bd1c03a8e2b5046fa777ffea2d7d16bee24136936fc3f9f5a7896afbf3701210247aae370556f6e710f3d24cf085ea6e6d1ca9e0c4881eef1ce1152744b10f576feffffff020065cd1d000000001976a914e0eca46d68f63125db019259202f02dbc9f3942288ac5853cd1d000000001976a9149346857e3f45db85ea11e749149b8b121878331d88ac31010000"
+}

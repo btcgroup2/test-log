@@ -1,0 +1,48 @@
+transaction : send teansaction from btcorgNode1 to btcnewNode1 amount 10
+address: morfipeW29oZR9dELsGaZFKQZStYfBBdts
+txid: 111aec33db14708a8fc7b642ea14d5febe68c5742a2751af3fafade6683ce5d7
+nodes: btcorgNode1, transaction info
+{
+  "amount": -10.00000000,
+  "fee": -0.00004520,
+  "confirmations": 0,
+  "trusted": true,
+  "txid": "111aec33db14708a8fc7b642ea14d5febe68c5742a2751af3fafade6683ce5d7",
+  "walletconflicts": [
+  ],
+  "time": 1499793747,
+  "timereceived": 1499793747,
+  "bip125-replaceable": "no",
+  "details": [
+    {
+      "account": "",
+      "address": "morfipeW29oZR9dELsGaZFKQZStYfBBdts",
+      "category": "send",
+      "amount": -10.00000000,
+      "vout": 0,
+      "fee": -0.00004520,
+      "abandoned": false
+    }
+  ],
+  "hex": "020000000128ac42c1062cce7985c2e297032c5e743393a85f8672af7b63f5d0dbaca6f893000000006a473044022033292aed88790afeb1439c81089d8b223f95f85383ce4081828f0d4b43069c860220492a0fb305835cf0141343808b18e66ffc06c278b63419ec5a67cfdf394bab4e012103a281ce1284d949d92fa69020e882458ed3819e366dbfadda958e4e14d5db9780feffffff0200ca9a3b000000001976a9145b7b7db86ad0a47b49d9448a6a576931571ae20388ac58cff505000000001976a9142f119e0f81f6600a5c0b6e1ac086a537204f9f2d88acfd010000"
+}
+nodes: btcorgNode2, transaction info
+error code: -5
+error message:
+Invalid or non-wallet transaction id
+nodes: btchardforkNode1, transaction info
+error code: -5
+error message:
+Invalid or non-wallet transaction id
+nodes: btchardforkNode2, transaction info
+error code: -5
+error message:
+Invalid or non-wallet transaction id
+nodes: btcnewNode1, transaction info
+error code: -5
+error message:
+Invalid or non-wallet transaction id
+nodes: btcnewNode2, transaction info
+error code: -5
+error message:
+Invalid or non-wallet transaction id
